@@ -461,10 +461,10 @@ tile.crucible.boron_nitride.name=氮化硼坩埚
 
 tile.multiblock_casing.substrate.name=Substrate Casing
 tile.multiblock_casing.advanced_substrate.name=Advanced Substrate Casing
-tile.multiblock_casing.drill_head.name=Drill Head
+tile.multiblock_casing.drill_head.name=钻头
 
-tile.multiblock_casing_active.airfoil.name=Airfoil Chamber
-tile.multiblock_casing_active.advanced_airfoil.name=Advanced Airfoil Chamber
+tile.multiblock_casing_active.airfoil.name=翼型室
+tile.multiblock_casing_active.advanced_airfoil.name=进阶翼型室
 
 tile.transparent_casing.pmma.name=聚甲基丙烯酸甲酯玻璃
 
@@ -485,8 +485,8 @@ item.material.oreprefix.boule=%s晶锭
 # Metaitems
 
 # Primitive Stuff
-metaitem.vacuum_tube.components.name=Vacuum Tube Components
-metaitem.vacuum_tube.components.tooltip=You hope it won't burn out
+metaitem.vacuum_tube.components.name=真空管部件
+metaitem.vacuum_tube.components.tooltip=你希望它别烧毁了。
 
 # Crystal Stuff
 metaitem.boule.cubic_zirconia.europium.name=Europium-doped Monocrystalline Cubic Zirconia Boule
@@ -513,13 +513,13 @@ metaitem.crystal.system_on_chip.socket.name=Crystal SOC Socket
 metaitem.crystal.system_on_chip.socket.tooltip=Bridging Crystal and Circuit
 
 # Wetware Stuff
-metaitem.magnetron.name=Magnetron
+metaitem.magnetron.name=磁控管
 
 
 # Optical Stuff
 metaitem.plate.phase_change_memory.name=PRAM
-metaitem.plate.phase_change_memory.tooltip=Phase-change Memory
-metaitem.optical_fiber.name=Optical Fiber
+metaitem.plate.phase_change_memory.tooltip=相变存储器
+metaitem.optical_fiber.name=光纤
 metaitem.optical_fiber.tooltip=Light-transmitting Glass
 metaitem.dielectric_mirror.name=Dielectric Mirror
 metaitem.dielectric_mirror.tooltip=Bragg Mirror
