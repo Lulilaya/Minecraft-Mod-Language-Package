@@ -320,20 +320,20 @@ gcys.universal.tooltip.pressure.target=目标压力
 # Single Block Machines
 
 # Steam Ejector
-gcys.machine.steam_ejector.name=Steam Ejector
+gcys.machine.steam_ejector.name=蒸汽喷射泵
 gcys.steam_ejector.tooltip.1=Creating your first Vacuum.
 gcys.steam_ejector.tooltip.2=Decreases pressure by §b%sPa§7 per second.
 gcys.steam_ejector.tooltip.3=Consumes %sL of Steam per second.
 
 # Vacuum Chamber
-gcys.machine.steam_vacuum_chamber.name=Small Steam Vacuum Chamber
+gcys.machine.steam_vacuum_chamber.name=小型蒸汽真空室
 
 # Infinite Pressure Pump
-gcys.machine.infinite_pressure_pump.name=Infinite Pressure Pump
-gcys.machine.infinite_pressure_pump.tooltip=§8You just need §o§5C§dr§4e§ca§et§ai§bv§3e §7m§1o§5d§de§r§8 to use this
+gcys.machine.infinite_pressure_pump.name=无限压力泵
+gcys.machine.infinite_pressure_pump.tooltip=§8你只需要在§o§5C§dr§4e§ca§et§ai§bv§3e §7m§1o§5d§de§r§8下使用它
 
 # Dryer
-gregtech.machine.dryer.tooltip=Vaporizing liquids
+gregtech.machine.dryer.tooltip=汽化液体
 
 # Multi Block Hatches
 gcys.machine.pressure_hatch.ivv.name=银河间虚空真空仓
@@ -376,31 +376,31 @@ gcys.multiblock.nanoscale_fabricator.tooltip.1=坩埚的平均热量不能超过
 gcys.machine.cvd_unit.name=化学气相沉积单元
 
 # Fracking Machine
-gcys.machine.fracker.name=Hydraulic Fracker
+gcys.machine.fracker.name=液压压裂机
 gcys.multiblock.fracker.tooltip.1=Uses 1000L of Fracturing Fluid to replenish veins under bedrock.
 gcys.multiblock.fracker.tooltip.2=Consumes §a%s EU/t§7.
 
 # Sonicator
-gcys.machine.sonicator.name=Sonicator
+gcys.machine.sonicator.name=近距离声波定位器
 
 # Catalytic Reformer
-gcys.machine.catalytic_reformer.name=Catalytic Reformer
+gcys.machine.catalytic_reformer.name=催化重整炉
 
 # Industrial Drill
-gcys.machine.industrial_drill.name=Industrial Drilling Rig
+gcys.machine.industrial_drill.name=工业钻机
 gcys.multiblock.industrial_drill.tooltip.1=Drills the block placed beneath the Drill Head.
 gcys.multiblock.industrial_drill.tooltip.2=The target block is not broken when non-consumable.
 
 # Axial Compressors
-gcys.machine.axial_compressor.subsonic.name=Subsonic Axial Compressor
-gcys.machine.axial_compressor.supersonic.name=Supersonic Axial Compressor
+gcys.machine.axial_compressor.subsonic.name=亚音速轴流压气机
+gcys.machine.axial_compressor.supersonic.name=超音速轴流压气机
 gcys.multiblock.axial_compressor.tooltip.1=Increases pressure by §b%sPa/s§7 up to §a%sPa (§r%s§a).
 gcys.multiblock.axial_compressor.tooltip.2=Consumes §e%sL/s§7 Lubricant when increasing pressure.
 gcys.multiblock.axial_compressor.tooltip.3=Uses %s§7 power. Does not overclock.
 
 # Turbomolecular Pumps
-gcys.machine.turbomolecular_pump.low_power.name=Low-Power Turbomolecular Pump
-gcys.machine.turbomolecular_pump.high_power.name=High-Power Turbomolecular Pump
+gcys.machine.turbomolecular_pump.low_power.name=低功率涡轮分子泵
+gcys.machine.turbomolecular_pump.high_power.name=高功率涡轮分子泵
 gcys.multiblock.turbomolecular_pump.tooltip.1=Decreases pressure by §b%sPa/s§7 up to §a%sPa (§r%s§a).
 gcys.multiblock.turbomolecular_pump.tooltip.2=Consumes §e%sL/s§7e Lubricant when decreasing pressure.
 gcys.multiblock.turbomolecular_pump.tooltip.3=Uses %s§7 power. Does not overclock.
@@ -454,10 +454,10 @@ gcys.pipe.pressure.tooltip.volume=容量：§a%sL
 
 
 # Blocks
-tile.crucible.quartz.name=Quartz Crucible
-tile.crucible.tungsten.name=Tungsten Crucible
-tile.crucible.graphite.name=Graphite Crucible
-tile.crucible.boron_nitride.name=Boron Nitride Crucible
+tile.crucible.quartz.name=石英坩埚
+tile.crucible.tungsten.name=钨坩埚
+tile.crucible.graphite.name=石墨坩埚
+tile.crucible.boron_nitride.name=氮化硼坩埚
 
 tile.multiblock_casing.substrate.name=Substrate Casing
 tile.multiblock_casing.advanced_substrate.name=Advanced Substrate Casing
