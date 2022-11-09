@@ -520,53 +520,53 @@ metaitem.magnetron.name=磁控管
 metaitem.plate.phase_change_memory.name=PRAM
 metaitem.plate.phase_change_memory.tooltip=相变存储器
 metaitem.optical_fiber.name=光纤
-metaitem.optical_fiber.tooltip=Light-transmitting Glass
-metaitem.dielectric_mirror.name=Dielectric Mirror
-metaitem.dielectric_mirror.tooltip=Bragg Mirror
-metaitem.laser.assembly.empty.name=Empty Laser Assembly
-metaitem.laser.assembly.empty.tooltip=Fill this with some Laser Medium
-metaitem.laser.helium_neon.name=Helium-Neon Laser
-metaitem.laser.helium_neon.tooltip=Purpose: Weak Optical Appliances
-metaitem.laser.nd_yag.name=Nd:YAG Laser
-metaitem.laser.nd_yag.tooltip=Purpose: Strong Optical Appliances
+metaitem.optical_fiber.tooltip=透光玻璃
+metaitem.dielectric_mirror.name=介质镜
+metaitem.dielectric_mirror.tooltip=布拉格镜
+metaitem.laser.assembly.empty.name=空激光组件
+metaitem.laser.assembly.empty.tooltip=用一些激光来填充它
+metaitem.laser.helium_neon.name=氦氖激光器
+metaitem.laser.helium_neon.tooltip=用途：弱光场设备
+metaitem.laser.nd_yag.name=掺钕钇铝石榴石激光器
+metaitem.laser.nd_yag.tooltip=用途：强光场设备
 
 
 # Spintronic Stuff
 metaitem.plate.spin_transfer_torque_memory.name=STTRAM
-metaitem.plate.spin_transfer_torque_memory.tooltip=Spin-Transfer Torque Memory
-metaitem.tube.topological_insulator.name=Topological Insulator Tube
-metaitem.tube.topological_insulator.tooltip=Conductive Surface States
-metaitem.containment_unit.bose_einstein_condensate.name=Bose-Einstein Condensate Containment Unit
-metaitem.containment_unit.bose_einstein_condensate.tooltip=Magnetic Evaporative Cooling
-metaitem.bose_einstein_condensate.name=Bose-Einstein Condensate
-metaitem.bose_einstein_condensate.tooltip=2,000 §cRb-87§7 Atoms at §b170nK§7!
+metaitem.plate.spin_transfer_torque_memory.tooltip=自旋转移矩存储器
+metaitem.tube.topological_insulator.name=拓扑绝缘管
+metaitem.tube.topological_insulator.tooltip=导电表层状态
+metaitem.containment_unit.bose_einstein_condensate.name=玻色-爱因斯坦冷凝液密封单元
+metaitem.containment_unit.bose_einstein_condensate.tooltip=磁蒸发冷却
+metaitem.bose_einstein_condensate.name=玻色-爱因斯坦凝聚态
+metaitem.bose_einstein_condensate.tooltip=在§b170nK§下的2000个§c铷-87§7原子！
 
 
 # Power Components
-metaitem.wafer.nano_power_integrated_circuit.name=NPIC Wafer
-metaitem.wafer.nano_power_integrated_circuit.tooltip=Raw Nano Power Circuit
-metaitem.wafer.pico_power_integrated_circuit.name=PPIC Wafer
-metaitem.wafer.pico_power_integrated_circuit.tooltip=Raw Pico Power Circuit
-metaitem.wafer.femto_power_integrated_circuit.name=FPIC Wafer
-metaitem.wafer.femto_power_integrated_circuit.tooltip=Raw Femto Power Circuit
+metaitem.wafer.nano_power_integrated_circuit.name=NPIC晶圆
+metaitem.wafer.nano_power_integrated_circuit.tooltip=未加工的纳米级电源电路
+metaitem.wafer.pico_power_integrated_circuit.name=PPIC晶圆
+metaitem.wafer.pico_power_integrated_circuit.tooltip=未加工的皮米级电源电路
+metaitem.wafer.femto_power_integrated_circuit.name=FPIC晶圆
+metaitem.wafer.femto_power_integrated_circuit.tooltip=未加工的飞米级电源电路
 metaitem.plate.nano_power_integrated_circuit.name=NPIC
-metaitem.plate.nano_power_integrated_circuit.tooltip=Nano Power Integrated Circuit
+metaitem.plate.nano_power_integrated_circuit.tooltip=纳米级电源集成电路
 metaitem.plate.pico_power_integrated_circuit.name=PPIC
-metaitem.plate.pico_power_integrated_circuit.tooltip=Pico Power Integrated Circuit
+metaitem.plate.pico_power_integrated_circuit.tooltip=皮米级电源集成电路
 metaitem.plate.femto_power_integrated_circuit.name=FPIC
-metaitem.plate.femto_power_integrated_circuit.tooltip=Femto Power Integrated Circuit
+metaitem.plate.femto_power_integrated_circuit.tooltip=飞米级电源集成电路
 
 
 # Item Behaviors
-metaitem.behavior.held_item_destroy.message=Holding the %s damaged it!
+metaitem.behavior.held_item_destroy.message=拿着%s破坏了它！
 
 
 # Nanotube Stuff
-metaitem.mixture.carbon_allotrope.name=Carbon Allotrope Mixture
-metaitem.cnt.graphene_aligned.name=Graphene-Aligned Carbon Nanotube
+metaitem.mixture.carbon_allotrope.name=碳同素异形体混合物
+metaitem.cnt.graphene_aligned.name=石墨烯定向碳纳米管
 
 # Crafting Components
-metaitem.component.grinder.boron_nitride.name=Boron Nitride Grinding Head
+metaitem.component.grinder.boron_nitride.name=氮化硼研磨头
 
 # Circuit Boards
 metaitem.board.gooware.name=Kapton Circuit Board
