@@ -5,7 +5,6 @@
   "item.abundant_atmosphere.amber": "琥珀",
   "item.abundant_atmosphere.ancient_amber": "远古琥珀",
   "item.abundant_atmosphere.roasted_mushrooms": "烤蘑菇",
-
   "block.abundant_atmosphere.mossy_stone": "覆苔石头",
   "block.abundant_atmosphere.mossy_deepslate": "覆苔深板岩",
   "block.abundant_atmosphere.mixed_bricks": "混合红砖块",
@@ -64,12 +63,9 @@
   "block.abundant_atmosphere.foxfire_block": "狐火菇方块",
   "block.abundant_atmosphere.rock": "石子",
   "block.abundant_atmosphere.sculk_teeth": "幽匿齿刺",
-
-
   "block.abundant_atmosphere.brazier": "火盆",
   "block.abundant_atmosphere.soul_brazier": "灵魂火盆",
   "block.abundant_atmosphere.rusted_plate": "生锈的板岩",
-
   "block.abundant_atmosphere.ash_log": "梣木原木",
   "block.abundant_atmosphere.stripped_ash_log": "去皮梣木原木",
   "block.abundant_atmosphere.ash_wood": "梣木",
@@ -89,7 +85,6 @@
   "block.abundant_atmosphere.ash_sign": "梣木告示牌",
   "item.abundant_atmosphere.ash_boat": "梣木船",
   "item.abundant_atmosphere.ash_chest_boat": "梣木运输船",
-
   "block.abundant_atmosphere.gourdrot_log": "棕垂原木",
   "block.abundant_atmosphere.stripped_gourdrot_log": "去皮棕垂原木",
   "block.abundant_atmosphere.gourdrot_wood": "棕垂木",
@@ -108,13 +103,11 @@
   "block.abundant_atmosphere.gourdrot_sign": "棕垂木告示牌",
   "item.abundant_atmosphere.gourdrot_boat": "棕垂木船",
   "item.abundant_atmosphere.gourdrot_chest_boat": "棕垂木运输船",
-
   "block.abundant_atmosphere.amber_crystal": "琥珀水晶",
   "block.abundant_atmosphere.amber_crystal_pillar": "琥珀水晶柱",
   "block.abundant_atmosphere.amber_block": "琥珀块",
   "block.abundant_atmosphere.amber_bricks": "琥珀砖",
   "block.abundant_atmosphere.amber_lamp": "琥珀灯",
-
   "entity.abundant_atmosphere.boat": "船",
   "entity.abundant_atmosphere.chest_boat": "运输船"
 }

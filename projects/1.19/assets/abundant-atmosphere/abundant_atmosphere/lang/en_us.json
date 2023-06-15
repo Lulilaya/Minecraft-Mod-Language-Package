@@ -5,7 +5,6 @@
   "item.abundant_atmosphere.amber": "Amber",
   "item.abundant_atmosphere.ancient_amber": "Ancient Amber",
   "item.abundant_atmosphere.roasted_mushrooms": "Roasted Mushrooms",
-
   "block.abundant_atmosphere.mossy_stone": "Mossy Stone",
   "block.abundant_atmosphere.mossy_deepslate": "Mossy Deepslate",
   "block.abundant_atmosphere.mixed_bricks": "Mixed Bricks",
@@ -64,12 +63,9 @@
   "block.abundant_atmosphere.foxfire_block": "Foxfire Block",
   "block.abundant_atmosphere.rock": "Rocks",
   "block.abundant_atmosphere.sculk_teeth": "Sculk Teeth",
-
-
   "block.abundant_atmosphere.brazier": "Brazier",
   "block.abundant_atmosphere.soul_brazier": "Soul Brazier",
   "block.abundant_atmosphere.rusted_plate": "Rusted Plate",
-
   "block.abundant_atmosphere.ash_log": "Ash Log",
   "block.abundant_atmosphere.stripped_ash_log": "Stripped Ash Log",
   "block.abundant_atmosphere.ash_wood": "Ash Wood",
@@ -89,7 +85,6 @@
   "block.abundant_atmosphere.ash_sign": "Ash Sign",
   "item.abundant_atmosphere.ash_boat": "Ash Boat",
   "item.abundant_atmosphere.ash_chest_boat": "Ash Chest Boat",
-
   "block.abundant_atmosphere.gourdrot_log": "Gourdrot Log",
   "block.abundant_atmosphere.stripped_gourdrot_log": "Stripped Gourdrot Log",
   "block.abundant_atmosphere.gourdrot_wood": "Gourdrot Wood",
@@ -108,13 +103,11 @@
   "block.abundant_atmosphere.gourdrot_sign": "Gourdrot Sign",
   "item.abundant_atmosphere.gourdrot_boat": "Gourdrot Boat",
   "item.abundant_atmosphere.gourdrot_chest_boat": "Gourdrot Chest Boat",
-
   "block.abundant_atmosphere.amber_crystal": "Amber Crystal",
   "block.abundant_atmosphere.amber_crystal_pillar": "Amber Crystal Pillar",
   "block.abundant_atmosphere.amber_block": "Amber Block",
   "block.abundant_atmosphere.amber_bricks": "Amber Bricks",
   "block.abundant_atmosphere.amber_lamp": "Amber Lamp",
-
   "entity.abundant_atmosphere.boat": "Boat",
   "entity.abundant_atmosphere.chest_boat": "Boat with Chest"
 }
